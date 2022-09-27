@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center"><br>✨Welcom to my Github✨</br>
 
 <h3 align="center"><b>📝Studying📝</b>
   <br>
